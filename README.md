@@ -1,5 +1,7 @@
 # Kaitlin Moore
-##Kaitlin Moore – Illustrator and Motion Designer
+```
+<h2>Kaitlin Moore – Illustrator and Motion Designer</h2>
+```
 
 #### [kaikeekat.ca](http://kaikeekat.ca)
 
