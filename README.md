@@ -1,4 +1,4 @@
-![It's me, Kait!](images/readmeme.png)
+![It's me, Kait!](images/characterme.svg)
 # Kaitlin Moore
 ## Illustrator and Motion Designer
 ### [kaikeekat.ca](http://kaikeekat.ca)
