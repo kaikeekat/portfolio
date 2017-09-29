@@ -2,7 +2,11 @@
 
 #### [kaikeekat.ca](http://kaikeekat.ca)
 
-![It's Kait](images/characterme-01.svg)
+![It's me, Kait!](images/readmeme.png)
+
+```
+
+```
 
 Kaitlin Moore – Illustrator and Motion Designer
 The best feeling in the world is when you first look at something and instantly get it. When understanding snaps on like a lightbulb in your head.
