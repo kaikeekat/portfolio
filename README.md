@@ -10,7 +10,7 @@ The best feeling in the world is when you first look at something and instantly 
 Things that look good, make you feel good, and I want to make things that make people feel really good.
 
 
-- **[Wanna email me? hello@kaikeekat.ca](mailto:hello@kaikeekat.ca)**
+- Wanna email me? **[hello@kaikeekat.ca](mailto:hello@kaikeekat.ca)**
 - [Béhance](https://www.behance.net/kaikeekat)
 - [Giphy](https://giphy.com/channel/kaikeekat)
 
