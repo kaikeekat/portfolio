@@ -1,6 +1,6 @@
-# Kaitlin Moore
+![It's me, Kait!](images/readmeme.png) # Kaitlin Moore
 
-## Kaitlin Moore – Illustrator and Motion Designer ![It's me, Kait!](images/readmeme.png)
+## Kaitlin Moore – Illustrator and Motion Designer
 
 
 #### [kaikeekat.ca](http://kaikeekat.ca)
