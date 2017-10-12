@@ -47,6 +47,8 @@ h1, h2, h3 {
 	font-family: 'Dosis', sans-serif;
 }
 
+/* Begining of the mobile tab */
+
 #menuToggle {
   display: block;
   position: absolute;
@@ -142,6 +144,7 @@ h1, h2, h3 {
   transform: scale(1.0, 1.0);
   opacity: 1;
 }
+/* The end of the mobile nav */
 
 .color-brand {
   color: #6cf;
@@ -166,6 +169,10 @@ a {
 
 #intro, #about, #work, #contact {
 	position: relative;
+}
+
+.desktop-nav {
+	display: none;
 }
 
 @media only screen and (min-width: 25em) {

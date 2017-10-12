@@ -12,8 +12,8 @@
 </head>
 <body>
   <header>
-    <nav role="navigation">
-      <h1 class="right-align">kaitlin moore</h1>
+    <h1>kaitlin moore</h1>
+    <nav role="navigation" class="mobile-nav">
       <div id="menuToggle">
         <input type="checkbox" />
         <span></span>
@@ -26,20 +26,28 @@
         </ul>
       </div>
     </nav>
+
+<nav role="navigation" class="desktop-nav">
+  <ol>
+    <li> <a class="btn" href="#about">about</a>
+    <li> <a class="btn" href="#work">work</a>
+    <li> <a class="btn" href="#contact">contact</a>
+  </ol>
+</nav>
   </header>
 
   <main role="main" id="main">
 
   <section id="intro">
     <div class="intro banner push">
-      <img class="img img-flex" src="images/placeholder-3by2.svg" alt="" aria-describedat="#shrubs">
-      <div class="banner-content pad-t-2 pad-b-2">
-        <div class="wrapper">
+      <img class="img-flex" src="images/placeholder-3by2.svg" alt="" aria-describedat="#shrubs">
+      <div class="banner-content push-0 gutter-1-2 pad-b">
+        <div class="max-length">
           <div class="text">
-            <h2 class="push-0">making happiness</h2>
+            <h2 class="push-0 pad-t pad-b-1-2">making happiness</h2>
             <p class="mega push-0">blah blah blah, all this cool stuff about what I like.</p>
-            <a class="btn mega" href="#">see my stuff</a>
           </div>
+          <a class="btn mega" href="#">see my stuff</a>
         </div>
       </div>
     </div>
